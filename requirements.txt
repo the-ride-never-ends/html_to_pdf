@@ -1,0 +1,4 @@
+multipledispatch
+pyyaml
+bs4
+playwright

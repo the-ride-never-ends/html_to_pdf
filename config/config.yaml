@@ -1,0 +1,10 @@
+SYSTEM:
+  SKIP_STEPS: False
+  FILENAME_PREFIX: "html_to_pdf"
+
+FILENAMES:
+  INPUT_FILENAME: "generic_filename"
+
+PRIVATE_FOLDER_PATHS:
+  INPUT_FOLDER: "C:\\Users\\Kyle\\Dropbox\\Work\\Red Ribbon\\case_files"
+  OUTPUT_FOLDER: "C:\\Users\\Kyle\\Dropbox\\Work\\Red Ribbon\\programs\\html_to_pdf\\output"
